@@ -10,7 +10,9 @@ import java.util.Scanner;
 public class CheckByteStream {
     public boolean isNumber(InputStream in) {
         try (Scanner scanner = new Scanner(in)) {
-            if (!scanner.hasNextInt()) throw new NumberFormatException();
+            if (!scanner.hasNextInt()) {
+                throw new NumberFormatException();
+            }
             return (scanner.nextInt() % 2 == 0);
         }
     }
