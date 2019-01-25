@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 public class SeachTest {
 
-    private final File testFolder = new File(System.getProperty("java.io.tmpdir") + "test");
+    private final File testFolder = new File(System.getProperty("java.io.tmpdir") + File.separator + "test");
 
     @Before
     public void setUp() {
