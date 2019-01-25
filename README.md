@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nikolamba/input_output.svg?branch=master)](https://travis-ci.org/Nikolamba/input_output)(https://travis-ci.org/Nikolamba/nmeleshkin)
+[![Build Status](https://travis-ci.org/Nikolamba/input_output.svg?branch=master)](https://travis-ci.org/Nikolamba/input_output)
 [![codecov](https://codecov.io/gh/Nikolamba/nmeleshkin/branch/master/graph/badge.svg)](https://codecov.io/gh/Nikolamba/nmeleshkin)
 
 # nmeleshkin
